@@ -1,7 +1,8 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
-
+### DATE: 2.5.25
+## Name: Preethi.K
+## Register Number: 212224240118
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
@@ -31,7 +32,7 @@
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-## OUTPUT :
+
 
 ## Support Removal Process
 ![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
@@ -47,8 +48,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2025-05-02 110801](https://github.com/user-attachments/assets/86669ada-af11-433f-8c21-057af77ee103)
+![Screenshot 2025-05-02 110825](https://github.com/user-attachments/assets/b34a9ae2-358b-4411-a130-b3060f6e30a1)
+![Screenshot 2025-05-02 110921](https://github.com/user-attachments/assets/d3e449ea-d9b2-4dfe-9806-9a58a1e7022c)
+
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
